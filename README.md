@@ -19,10 +19,10 @@ This work involves pre-processing hyperspectral data, applying unsupervised lear
 
 ## 🔍 Key Features
 
-- 🌕 **Lunar Spectral Analysis** using custom pipeline
-- 🛰️ **Image Segmentation** with optimized clustering algorithms
-- 🌌 **Surface Composition Mapping** for mineral interpretation
-- 💻 Built with Python, NumPy, scikit-learn, Matplotlib & more
+- 🛰️ **Spectral Preprocessing** for noise reduction and normalization  
+- 💻 **Unsupervised Segmentation** of surface imagery using clustering techniques  
+- 🗺️ **Spatial Mapping** of classified mineral zones  
+- 🌕 **Visualization** of compositional diversity across the lunar terrain  
 
 ---
 
@@ -99,4 +99,3 @@ Unauthorized copying, use, or redistribution of this software is **strictly proh
 
 > 📌 *For demo requests or research collaboration, please reach out directly.*
 
-```
