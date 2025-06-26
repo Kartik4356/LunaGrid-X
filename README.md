@@ -84,7 +84,7 @@ For academic collaboration inquiries, please contact the author directly via ema
 This codebase is protected under full copyright and may be subject to patent protection.
 Unauthorized copying, use, or redistribution of this software is **strictly prohibited**.
 
-© 2025 \[Shruti Pawar]. All rights reserved.
+© 2025 Shruti Pawar. All rights reserved.
 
 ---
 
