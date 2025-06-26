@@ -97,5 +97,7 @@ Unauthorized copying, use, or redistribution of this software is **strictly proh
 
 ---
 
-> 📌 *For demo requests or research collaboration, please reach out directly.*
+> 📌 *Source file intentionally omitted for intellectual property protection. For demo requests or research collaboration, please reach out directly.*
+
+
 
