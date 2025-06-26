@@ -93,7 +93,7 @@ Unauthorized copying, use, or redistribution of this software is **strictly proh
 **Shruti Pawar**
 🔗 [LinkedIn](https://www.linkedin.com/in/shruti-pawar-0a9031235/)
 💻 [GitHub](https://github.com/Shruti1632)
-📧 [Email](shrutipawar216@gmail.com)
+📧 [Email](mailto:shrutipawar216@gmail.com)
 
 ---
 
