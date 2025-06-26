@@ -1,1 +1,104 @@
-# LunaGrid-X
+# LunaGrid-X 🌙
+
+LunaGrid-X is a private research project focused on advanced lunar surface analysis using satellite spectral imagery. It utilizes custom-built clustering and mapping techniques to extract and interpret mineralogical patterns on the Moon’s surface.
+
+> 🚧 **Private Repository – Intellectual Property Protected**
+
+---
+
+## 🧩 Overview
+
+LunaGrid-X aims to:
+- Segment satellite-derived lunar imagery based on spectral data.
+- Identify and classify distinct mineralogical clusters across the lunar terrain.
+- Enable insights into surface composition using advanced visualization and pattern recognition techniques.
+
+This work involves pre-processing hyperspectral data, applying unsupervised learning algorithms, and rendering surface composition maps that reflect geological variation.
+
+---
+
+## 🔍 Key Features
+
+- 🌕 **Lunar Spectral Analysis** using custom pipeline
+- 🛰️ **Image Segmentation** with optimized clustering algorithms
+- 🌌 **Surface Composition Mapping** for mineral interpretation
+- 💻 Built with Python, NumPy, scikit-learn, Matplotlib & more
+
+---
+
+## 📁 Project Structure
+
+```plaintext
+LunaGrid-X/
+│
+├── data/               # Raw and processed spectral datasets
+├── notebooks/          # Jupyter notebooks for analysis & visualization
+├── src/                # Core scripts for segmentation, clustering, and mapping
+├── models/             # Saved clustering or preprocessing models (if any)
+├── utils/              # Helper functions & utilities
+├── outputs/            # Generated composition maps
+└── README.md           # Project overview and license
+````
+
+---
+
+## 🚀 Getting Started
+
+> **Note:** This is a closed research repository. If you have authorized access, follow the steps below.
+
+### 📦 Requirements
+
+* Python 3.8+
+* NumPy, Pandas, scikit-learn, OpenCV
+* Matplotlib, seaborn
+* Jupyter Notebook
+
+### ⚙️ Setup Instructions
+
+```bash
+# Clone the repository (if you have access)
+git clone https://github.com/yourusername/LunaGrid-X.git
+cd LunaGrid-X
+
+# Create virtual environment (optional)
+python -m venv venv
+source venv/bin/activate   # or venv\Scripts\activate on Windows
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+---
+
+## 🧠 Contributions
+
+This project is currently **not open for external contributions**.
+For academic collaboration inquiries, please contact the author directly via email or LinkedIn.
+
+---
+
+## 📜 License
+
+### 🚫 All Rights Reserved
+
+This codebase is protected under full copyright and may be subject to patent protection.
+Unauthorized copying, use, or redistribution of this software is **strictly prohibited**.
+
+© 2025 \[Shruti Pawar]. All rights reserved.
+
+---
+
+## 👩‍💻 Author
+
+**Shruti Pawar**
+🔗 [LinkedIn](https://www.linkedin.com/in/shruti-pawar-0a9031235/)
+💻 [GitHub](https://github.com/Shruti1632)
+📧 [Email](shrutipawar216@gmail.com)
+
+---
+
+> 📌 *For demo requests or research collaboration, please reach out directly.*
+
+```
+
+---
