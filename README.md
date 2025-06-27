@@ -57,7 +57,7 @@ LunaGrid-X/
 
 ```bash
 # Clone the repository (if you have access)
-git clone https://github.com/yourusername/LunaGrid-X.git
+git clone https://github.com/Shruti1632/LunaGrid-X.git
 cd LunaGrid-X
 
 # Create virtual environment (optional)
