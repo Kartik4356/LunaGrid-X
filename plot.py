@@ -4,7 +4,7 @@ import matplotlib.image as mpimg
 import csv
 
 # Load the image
-image_path = "C:/Users/kanis/Downloads/slice_test.png"
+image_path = "C:/Users/shrut/Downloads/slice_test.png"
 image = mpimg.imread(image_path)
 
 # Read the coordinates from the CSV file
