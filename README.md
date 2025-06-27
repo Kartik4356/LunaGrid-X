@@ -88,13 +88,17 @@ Unauthorized copying, use, or redistribution of this software is **strictly proh
 
 ---
 
-## 👩‍💻 Author
+## 👥 Contributors
 
 **Shruti Pawar**
 🔗 [LinkedIn](https://www.linkedin.com/in/shruti-pawar-0a9031235/)
 💻 [GitHub](https://github.com/Shruti1632)
 📧 [Email](mailto:shrutipawar216@gmail.com)
 
+Kartik Dalvi
+🔗 [LinkedIn](https://www.linkedin.com/in/kartik-dalvi-a41a101ba)
+💻 [GitHub](https://github.com/Kartik4356)
+📧 [Email](mailto:kartikdalvi2002@gmail.com)
 ---
 
 > 📌 *Source file intentionally omitted for intellectual property protection. For demo requests or research collaboration, please reach out directly.*
