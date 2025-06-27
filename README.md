@@ -90,9 +90,9 @@ Unauthorized copying, use, or redistribution of this software is **strictly proh
 
 ## 👥 Contributors
 
-- **Shruti Pawar** · [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Shruti1632) [Shruti1632](https://github.com/Shruti1632) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-pawar-0a9031235/) [Profile](https://www.linkedin.com/in/shruti-pawar-0a9031235/) · [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shrutipawar216@gmail.com) [Email](mailto:shrutipawar216@gmail.com)
-
-- **Kartik Dalvi** · [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Kartik4356) [Kartik4356](https://github.com/Kartik4356) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-dalvi-a41a101ba) [Profile](https://www.linkedin.com/in/kartik-dalvi-a41a101ba) · [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kartikdalvi2002@gmail.com) [Email](mailto:kartikdalvi2002@gmail.com)
+- **Shruti Pawar** · [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)](https://github.com/Shruti1632) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-pawar-0a9031235/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:shrutipawar216@gmail.com)
+  
+- **Kartik Dalvi** · [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)](https://github.com/Kartik4356) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-dalvi-a41a101ba) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:kartikdalvi2002@gmail.com)
 
 ---
 
