@@ -90,17 +90,17 @@ Unauthorized copying, use, or redistribution of this software is **strictly proh
 
 ## 👥 Contributors
 
-- <strong>Shruti Pawar</strong> · 
+- <strong>Shruti Pawar</strong> - 
   <a href="https://github.com/Shruti1632"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" height="18" style="vertical-align: text-bottom;"></a> 
   <a href="https://www.linkedin.com/in/shruti-pawar-0a9031235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="18" style="vertical-align: text-bottom;"></a> 
   <a href="mailto:shrutipawar216@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="18" style="vertical-align: text-bottom;"></a>
 
-- <strong>Kartik Dalvi</strong> · 
+- <strong>Kartik Dalvi</strong> - 
   <a href="https://github.com/Kartik4356"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" height="18" style="vertical-align: text-bottom;"></a> 
   <a href="https://www.linkedin.com/in/kartik-dalvi-a41a101ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="18" style="vertical-align: text-bottom;"></a> 
   <a href="mailto:kartikdalvi2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="18" style="vertical-align: text-bottom;"></a>
 
-- <strong>Shriniwas Pawar</strong> · 
+- <strong>Shriniwas Pawar</strong> - 
   <a href="https://www.linkedin.com/in/shriniwas-pawar-15694418b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="18" style="vertical-align: text-bottom;"></a> 
   <a href="mailto:shriniwaspawar1744@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="18" style="vertical-align: text-bottom;"></a>
 
