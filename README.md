@@ -1,6 +1,6 @@
 # LunaGrid-X 🌙
 
-LunaGrid-X is a private research project focused on advanced lunar surface analysis using satellite spectral imagery. It utilizes custom-built clustering and mapping techniques to extract and interpret mineralogical patterns on the Moon’s surface.
+LunaGrid-X is a private research project dedicated to advanced lunar surface analysis, leveraging IIRS data obtained from Chandrayaan-2. This project, conducted for ISRO BAH, focuses on utilizing custom-built clustering and classification techniques to accurately identify and map various mineralogical patterns across the Moon's surface, providing critical insights into lunar composition.
 
 > 🚧 **Private Repository – Intellectual Property Protected**
 
