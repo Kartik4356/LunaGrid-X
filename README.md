@@ -110,3 +110,34 @@ Unauthorized copying, use, or redistribution of this software is **strictly proh
 
 
 
+## 👥 Contributors
+
+- <strong>Shruti Pawar</strong> · 
+  <a href="https://github.com/Shruti1632">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="18" width="18" style="border-radius: 50%; vertical-align: middle;" />
+  </a>  
+  <a href="https://www.linkedin.com/in/shruti-pawar-0a9031235/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="18" width="18" style="border-radius: 50%; vertical-align: middle;" />
+  </a>  
+  <a href="mailto:shrutipawar216@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="18" width="18" style="border-radius: 50%; vertical-align: middle;" />
+  </a>
+
+- <strong>Kartik Dalvi</strong> · 
+  <a href="https://github.com/Kartik4356">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="18" width="18" style="border-radius: 50%; vertical-align: middle;" />
+  </a>  
+  <a href="https://www.linkedin.com/in/kartik-dalvi-a41a101ba">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="18" width="18" style="border-radius: 50%; vertical-align: middle;" />
+  </a>  
+  <a href="mailto:kartikdalvi2002@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="18" width="18" style="border-radius: 50%; vertical-align: middle;" />
+  </a>
+
+- <strong>Shriniwas Pawar</strong> · 
+  <a href="https://www.linkedin.com/in/shriniwas-pawar-15694418b">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="18" width="18" style="border-radius: 50%; vertical-align: middle;" />
+  </a>  
+  <a href="mailto:shriniwaspawar1744@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="18" width="18" style="border-radius: 50%; vertical-align: middle;" />
+  </a>
