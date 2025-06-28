@@ -7,6 +7,10 @@ LunaGrid-X is a private research project dedicated to advanced lunar surface ana
 
 ---
 
+![moon lander](https://github.com/user-attachments/assets/f9c6feae-c061-4f64-8fb5-7d2d220b3c04)
+
+---
+
 ## 🧩 Overview
 
 LunaGrid-X aims to:
@@ -108,4 +112,5 @@ Unauthorized copying, use, or redistribution of this software is **strictly proh
 ---
 
 > 📌 *Source file intentionally omitted for intellectual property protection. For demo requests or research collaboration, please reach out directly.*
+
 
