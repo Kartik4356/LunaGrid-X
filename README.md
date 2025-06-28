@@ -6,6 +6,12 @@ LunaGrid-X is a private research project dedicated to advanced lunar surface ana
 
 ---
 
+
+![Uploading IMG_20250628_214913.jpg…]()
+
+
+
+---
 ## 🧩 Overview
 
 LunaGrid-X aims to:
